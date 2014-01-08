@@ -57,5 +57,3 @@ production:
   encoding: unicode
   database: rails-wercker-hereku_production
   pool: 5
-  username: rails-wercker-hereku
-  password:
